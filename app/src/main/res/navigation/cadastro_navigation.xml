@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cadastro_navigation.xml"
+    app:startDestination="@id/nome_dest">
+
+    <fragment
+        android:id="@+id/nome_dest"
+        android:name="br.edu.infnet.walletapp.ui.NomeFragment"
+        android:label="@string/cadastro"
+        tools:layout="@layout/fragment_nome" />
+    <fragment
+        android:id="@+id/email_dest"
+        android:name="br.edu.infnet.walletapp.ui.EmailFragment"
+        android:label="@string/cadastro"
+        tools:layout="@layout/fragment_email" />
+    <fragment
+        android:id="@+id/profissao_dest"
+        android:name="br.edu.infnet.walletapp.ui.ProfissaoFragment"
+        android:label="@string/cadastro"
+        tools:layout="@layout/fragment_profissao" />
+    <fragment
+        android:id="@+id/senha_dest"
+        android:name="br.edu.infnet.walletapp.ui.SenhaFragment"
+        android:label="@string/cadastro"
+        tools:layout="@layout/fragment_senha" />
+</navigation>

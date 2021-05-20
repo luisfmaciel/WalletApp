@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="login">Login</string>
+    <string name="nome_">Nome:</string>
+    <string name="email_">Email:</string>
+    <string name="profissao_">Profissão:</string>
+    <string name="nome">Nome</string>
+    <string name="avancar">Avançar</string>
+    <string name="profissao">Profissão</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="salvar">Salvar</string>
+    <string name="tudo">Tudo</string>
+    <string name="entradas">Entradas</string>
+    <string name="saidas">Saídas</string>
+    <string name="sair">Sair</string>
+    <string name="saldo">Saldo</string>
+    <string name="rs">R$</string>
+    <string name="tipo">Tipo</string>
+    <string name="_01_jan">01 Jan</string>
+    <string name="perfil">Perfil</string>
+    <string name="editar_dados">Editar dados</string>
+    <string name="entrada">Entrada</string>
+    <string name="despesa">Despesa</string>
+    <string name="descricao">Descrição</string>
+    <string name="valor_rs">Valor R$</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="menos_rs">- R$</string>
+    <string name="dd_mm_aa">DD/MM/AA</string>
+    <string name="lucro">Lucro</string>
+    <string name="lucro_total">Lucro Total</string>
+    <string name="despesa_total">Despesa Total</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="extrato">Extrato</string>
+    <string name="entrada_total">Entrada total</string>
+    <string name="adicionar_conta">Adicionar Conta</string>
+    <string name="nao_ha_lancamento">Não há nenhum lançamento!</string>
+    <string name="string_vazia"> </string>
+</resources>

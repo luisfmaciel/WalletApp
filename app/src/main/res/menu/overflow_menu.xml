@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sair_dest"
+        android:menuCategory="secondary"
+        android:title="@string/sair"/>
+
+</menu>

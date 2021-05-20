@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/extrato_dest"
+        android:icon="@drawable/ic_view_list"
+        android:menuCategory="secondary"
+        android:title="@string/extrato"/>
+
+    <item
+        android:id="@+id/perfil_dest"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_person"
+        android:title="@string/perfil" />
+</menu>
